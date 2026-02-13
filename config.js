@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Thank you for always making me feel like the luckiest man in the world! 🎉💝💖💝💓",
-        message: "Here's a little gift i have for you :https://gifft.me/fr/o/l/vgilgooxtuq2urli88yqen5w ",
+        message: "Here's a little gift I have for you: <a href='https://gifft.me/fr/o/l/vgilgooxtuq2urli88yqen5w' target='_blank'>MUUUUAH 💋</a>",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
